@@ -1,2 +1,2 @@
 # TermLauncher
-This app is being made for fun!
+This app is being made for fun! Please no hate!
