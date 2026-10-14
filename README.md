@@ -4,7 +4,7 @@
 ### Features
 - Home screen
 - App drawer
-- Wallpaper (supports gif)
+- Wallpaper (animated rain by default, supports gif)
 - Settings (`[ cfg ]`)
 
 ### Requirements
