@@ -1,6 +1,20 @@
 # TermLauncher
 <sub><ins>This app is being made for fun! Please no hate!</ins></sub>
-## Guides/FAQ
+
+### Features
+- Home screen
+- App drawer
+- Wallpaper (supports gif)
+- Settings (`[ cfg ]`)
+
+### Requirements
+- Android 9 (API 28) or newer
+
+### Limitations
+
+An app can't restyle system screens (Settings, other apps, the keyboard) without root, so TermLauncher only replaces the home screen and app drawer.
+
+## Guides
 ### Installation
 First go to the releases and download the latest release, after downloading click on it and press install. While installing it can say "Harmful app blocked".
 
