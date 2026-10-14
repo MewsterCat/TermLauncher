@@ -1,5 +1,5 @@
 # TermLauncher
-<sub>Note: <ins>This app is being made for fun! Please no hate!</ins></sub>
+<sub>Note: <ins>This project is being made for fun! Please no hate!</ins></sub>
 
 ### Features
 - Home screen
