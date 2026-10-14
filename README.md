@@ -20,9 +20,11 @@ First go to the releases and download the latest release by clicking on a file n
 
 ![image alt](https://github.com/MewsterCat/TermLauncher/blob/d55919b75ed555e977ab62a575722ff960a850ef/images/TermLauncher-Installation-Warning-Pic.jpg)
 
-Above a button "Got it" press a text that says "More details ↓". After you clicked it click a text that says "Install anyway".
+Above a button "Got it" press a text that says "More details ↓".
 
 ![image alt](https://github.com/MewsterCat/TermLauncher/blob/d55919b75ed555e977ab62a575722ff960a850ef/images/TermLauncher-Installation-Warning-Pic1.jpg)
+
+After you clicked it click a text that says "Install anyway".
 
 ### Updating
 Note: <ins>You don't have to uninstall the already installed one!</ins>
