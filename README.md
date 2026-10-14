@@ -2,7 +2,7 @@
 <sub><ins>This app is being made for fun! Please no hate!</ins></sub>
 ## Guides/FAQ
 ### Installation
-First go to the newest release and download the latest release, after downloading click on it and press install. While installing it will can say "Harmful app blocked".
+First go to the releases and download the latest release, after downloading click on it and press install. While installing it will can say "Harmful app blocked".
 
 ![image alt](https://github.com/MewsterCat/TermLauncher/blob/d55919b75ed555e977ab62a575722ff960a850ef/images/TermLauncher-Installation-Warning-Pic.jpg)
 
