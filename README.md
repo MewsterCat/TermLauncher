@@ -1,5 +1,5 @@
 # TermLauncher
-This app is being made for fun! Please no hate!
+__This app is being made for fun! Please no hate!__
 ## Guides/FAQ
 ### Installation
 While installing the app it can say "harmful app".
