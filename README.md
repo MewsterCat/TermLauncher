@@ -11,4 +11,5 @@ Above a button "Got it" press a text that says "More details ↓". After you cli
 ![image alt](https://github.com/MewsterCat/TermLauncher/blob/d55919b75ed555e977ab62a575722ff960a850ef/images/TermLauncher-Installation-Warning-Pic1.jpg)
 
 ### Updating
-<ins>You don't have to uninstall the already installed one!</ins> To update the app you have to download the latest release, when downloaded click on it, it will ask you to update. While updating it can say "Harmful app blocked", above a button "Got it" press a text that says "More details ↓". After you clicked it click a text that says "Install anyway".
+Note: <ins>You don't have to uninstall the already installed one!</ins>
+To update the app you have to download the latest release, when downloaded click on it, it will ask you to update. While updating it can say "Harmful app blocked", above a button "Got it" press a text that says "More details ↓". After you clicked it click a text that says "Install anyway".
