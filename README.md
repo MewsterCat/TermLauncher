@@ -16,7 +16,7 @@ An app can't restyle system screens (Settings, other apps, the keyboard) without
 
 ## Guides
 ### Installation
-First go to the releases and download the latest release, after downloading click on it and press install. While installing it can say "Harmful app blocked".
+First go to the releases and download the latest release by clicking on a file named `TermLauncher.apk`, after downloading click on it and press install. While installing it can say "Harmful app blocked".
 
 ![image alt](https://github.com/MewsterCat/TermLauncher/blob/d55919b75ed555e977ab62a575722ff960a850ef/images/TermLauncher-Installation-Warning-Pic.jpg)
 
