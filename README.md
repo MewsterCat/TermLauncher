@@ -3,7 +3,7 @@
 ### Note
 <ins>This project is being made for fun! Please no hate!</ins>
 
-This project is being helped by developing with AI tools that assist in code generation while maintaining human oversight and direction.
+This project is being helped developing with AI tools that assist in code generation while maintaining human oversight and direction.
 
 ### Features
 - Home screen
