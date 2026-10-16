@@ -1,0 +1,7 @@
+com.mewstercat.termlauncher.app-pngs-0 E:\TermLauncher\TermLauncher\app\build\generated\res\pngs\debug
+com.mewstercat.termlauncher.app-resValues-1 E:\TermLauncher\TermLauncher\app\build\generated\res\resValues\debug
+com.mewstercat.termlauncher.app-packageDebugResources-2 E:\TermLauncher\TermLauncher\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mewstercat.termlauncher.app-packageDebugResources-3 E:\TermLauncher\TermLauncher\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mewstercat.termlauncher.app-debug-4 E:\TermLauncher\TermLauncher\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.mewstercat.termlauncher.app-debug-5 E:\TermLauncher\TermLauncher\app\src\debug\res
+com.mewstercat.termlauncher.app-main-6 E:\TermLauncher\TermLauncher\app\src\main\res

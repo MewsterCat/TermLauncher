@@ -1,0 +1,4 @@
+com.mewstercat.termlauncher.test.app-androidTest-0 E:\TermLauncher\TermLauncher\app\build\generated\res\resValues\androidTest\debug
+com.mewstercat.termlauncher.test.app-mergeDebugAndroidTestResources-1 E:\TermLauncher\TermLauncher\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.mewstercat.termlauncher.test.app-mergeDebugAndroidTestResources-2 E:\TermLauncher\TermLauncher\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.mewstercat.termlauncher.test.app-debugAndroidTest-3 E:\TermLauncher\TermLauncher\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

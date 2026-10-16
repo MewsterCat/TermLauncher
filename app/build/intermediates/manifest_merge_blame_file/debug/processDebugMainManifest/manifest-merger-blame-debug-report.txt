@@ -1,0 +1,69 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mewstercat.termlauncher"
+4    android:versionCode="1"
+5    android:versionName="2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+11-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:4:5-82
+11-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:4:22-79
+12
+13    <!-- Lets the launcher see installed apps on Android 11+ -->
+14    <queries>
+14-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:7:5-12:15
+15        <intent>
+15-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:8:9-11:18
+16            <action android:name="android.intent.action.MAIN" />
+16-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:9:13-65
+16-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:9:21-62
+17
+18            <category android:name="android.intent.category.LAUNCHER" />
+18-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:10:13-73
+18-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:10:23-70
+19        </intent>
+20    </queries>
+21
+22    <application
+22-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:14:5-30:19
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:label="TermLauncher"
+25-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:15:9-37
+26        android:theme="@android:style/Theme.DeviceDefault.NoActionBar" >
+26-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:16:9-71
+27        <activity
+27-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:17:9-29:20
+28            android:name="com.mewstercat.termlauncher.MainActivity"
+28-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:18:13-41
+29            android:exported="true"
+29-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:19:13-36
+30            android:launchMode="singleTask"
+30-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:20:13-44
+31            android:stateNotNeeded="true"
+31-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:21:13-42
+32            android:windowSoftInputMode="adjustResize" >
+32-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:22:13-55
+33            <intent-filter>
+33-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:23:13-28:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:9:13-65
+34-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:9:21-62
+35
+36                <category android:name="android.intent.category.HOME" />
+36-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:25:17-73
+36-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:25:27-70
+37                <category android:name="android.intent.category.DEFAULT" />
+37-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:26:17-76
+37-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:26:27-73
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:10:13-73
+38-->E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:10:23-70
+39            </intent-filter>
+40        </activity>
+41    </application>
+42
+43</manifest>

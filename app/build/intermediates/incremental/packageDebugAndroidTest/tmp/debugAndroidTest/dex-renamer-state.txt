@@ -1,0 +1,4 @@
+#Mon Oct 12 17:14:00 CEST 2026
+base.0=E\:\\TermLauncher\\TermLauncher\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

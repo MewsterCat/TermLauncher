@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.REQUEST_DELETE_PACKAGES
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:4:5-82
+	android:name
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:4:22-79
+queries
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:7:5-12:15
+intent#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:8:9-11:18
+action#android.intent.action.MAIN
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:9:13-65
+	android:name
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:9:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:10:13-73
+	android:name
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:10:23-70
+application
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:14:5-30:19
+INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:14:5-30:19
+	android:extractNativeLibs
+		INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:15:9-37
+	android:theme
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:16:9-71
+activity#com.mewstercat.termlauncher.MainActivity
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:17:9-29:20
+	android:stateNotNeeded
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:21:13-42
+	android:launchMode
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:20:13-44
+	android:windowSoftInputMode
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:22:13-55
+	android:exported
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:23:13-28:29
+category#android.intent.category.HOME
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:25:17-73
+	android:name
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:25:27-70
+category#android.intent.category.DEFAULT
+ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml:26:27-73
+uses-sdk
+INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml
+INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\TermLauncher\TermLauncher\app\src\main\AndroidManifest.xml
