@@ -34,8 +34,3 @@ After you clicked it click a text that says "Install anyway".
 Note: <ins>You don't have to uninstall the already installed one!</ins>
 
 To update the app you have to download the latest release, when downloaded click on it, it will ask you to update. While updating it can say "Harmful app blocked", above a button "Got it" press a text that says "More details ↓". After you clicked it click a text that says "Install anyway".
-
-## FAQ
-<sub>Note: <ins>Examples will be used here!</ins></sub>
-### Version Naming
-A release named "v13" can actually be a version `1.9.3`.
